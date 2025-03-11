@@ -6,7 +6,7 @@ By Yuan Chang, Zheng Li and Zhenyu Xu.
 
 # Dataset
 
-Experiments are conducted on the Havard Medical dataset [link]([https://osf.io/nhtur/](https://www.med.harvard.edu/AANLIB/home.html)).
+Experiments are conducted on the Havard Medical dataset [link]([https://www.med.harvard.edu/AANLIB/home.html]).
 
 # Question
 
